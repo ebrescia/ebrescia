@@ -12,7 +12,6 @@ _Here are a few recent talks I've given:_
 - **GitHub Universe 2020** - [GitHub in the enterprise: Velocity and the developer experience](https://githubuniverse.com/GitHub-in-the-enterprise-Velocity-and-the-developer-experience/) ([Also on YouTube](https://www.youtube.com/watch?v=Cl2QDxG4gt4&feature=youtu.be))
 
 _And some thoughts I've shared with the press or on our blog recently:_
-- **Fast Company** - [Top Tech Trends 2021](https://www.fastcompany.com/90588717/top-tech-trends-2021-post-pandemic-predictions-ai-fintech-health)
 - **The Economist, The World Ahead Podcast** - [Out of office—how will covid-19 change the world of work?](https://www.economist.com/podcasts/2020/09/28/out-of-office-how-will-covid-19-change-the-world-of-work)
 - **The Times (UK)** - [A future where no jobs are boring](https://drive.google.com/drive/u/0/folders/1_w1z_Sb8wqW1dOm9uMj_n_DppoJnkS8Z)
 - **The Economist** - [At software firms, many people already worked from home](https://www.economist.com/the-world-ahead/2020/11/17/at-software-firms-many-people-already-worked-from-home?utm_medium=pr&utm_source=inf-a)
