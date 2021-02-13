@@ -5,11 +5,13 @@ I'm Erica Brescia, the Chief Operating Officer at GitHub. I'm also on the board 
 You can find me on [Twitter](https://twitter.com/ericabrescia) if you'd like to connect.
 
 _Here are a few recent talks I've given:_
+
+- **The Economist innovation@work** - [Building digital bridges; what we can learn from the Open Source community to optimize the way we work](https://player.vimeo.com/video/505153357)
+- **GitHub Universe 2020** - [GitHub in the enterprise: Velocity and the developer experience](https://githubuniverse.com/GitHub-in-the-enterprise-Velocity-and-the-developer-experience/) ([Also on YouTube](https://www.youtube.com/watch?v=Cl2QDxG4gt4&feature=youtu.be))
 - **Federal Reserve Bank of SF Panel Event** - [The New Future of Work](https://www.frbsf.org/fed-system/new-future-of-work/)
 - **SaaStr Keynote** - [What Being a Founder Taught Me About Leadership - Lessons from GitHub’s COO](https://register.saastrannual.com/talks/what-being-a-founder-taught-me-about-leadership-lessons-from-githubs-coo/?ah=E1mTfDcc)
 - **All Things Open** - [The Next 50 Million Developers](https://www.youtube.com/watch?v=poENiMjjG2U&feature=emb_logo)
 - **Underscore.vc** - [Core Collective Series Fireside Chat](https://underscore.vc/blog/fireside-chat-with-erica-brescia-chief-operating-officer-at-github/)
-- **GitHub Universe 2020** - [GitHub in the enterprise: Velocity and the developer experience](https://githubuniverse.com/GitHub-in-the-enterprise-Velocity-and-the-developer-experience/) ([Also on YouTube](https://www.youtube.com/watch?v=Cl2QDxG4gt4&feature=youtu.be))
 
 _And some thoughts I've shared with the press or on our blog recently:_
 - **The Economist, The World Ahead Podcast** - [Out of office—how will covid-19 change the world of work?](https://www.economist.com/podcasts/2020/09/28/out-of-office-how-will-covid-19-change-the-world-of-work)
