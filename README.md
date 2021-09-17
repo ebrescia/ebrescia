@@ -16,6 +16,8 @@ _Here are a few recent talks I've given:_
 
 _And some thoughts I've shared with the press or on our blog recently:_
 - **Protocol** - [How GitHub COO Erica Brescia runs the coding gold mines](https://www.protocol.com/enterprise/github-erica-brescia-microsoft)
+- **Axios** - [The biggest gift of remote work is not commuting](https://www.axios.com/remote-work-vr-facebook-72fa838d-8fba-4d7a-b909-f660e41a129f.html)
+- **NBC Bay Area** - [Worried aobut returning to the office? What to ask your boss to ensure you're safe](https://www.nbcbayarea.com/investigations/worried-about-returning-to-the-office-what-to-ask-your-boss-to-ensure-youre-safe/2579491/)
 - **BBC** - [How asynchronous communications could change your workday](https://www.bbc.com/worklife/article/20210406-how-asynchronous-communication-could-change-your-workday)
 - **The Economist, The World Ahead Podcast** - [Out of office—how will covid-19 change the world of work?](https://www.economist.com/podcasts/2020/09/28/out-of-office-how-will-covid-19-change-the-world-of-work)
 - **The Times (UK)** - [A future where no jobs are boring](https://drive.google.com/drive/u/0/folders/1_w1z_Sb8wqW1dOm9uMj_n_DppoJnkS8Z)
