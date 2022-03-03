@@ -1,6 +1,6 @@
 # about-me
 
-I'm Erica Brescia, an investor at [Redpoint Ventures](https://www.redpoint.com/). I'm also on the board of the [Linux Foundation](https://www.linuxfoundation.org/). Previously, I was the Chief Operating Officer at GitHub.  and an operating partner at [X Factor Ventures](https://www.xfactor.ventures/), a seed fund that invests in female-founded companies (all investment partners are female founders themselves). Prior to joining GitHub, I was the co-founder and COO of [Bitnami](https://bitnami.com/) (acquired by VMware). 
+I'm Erica Brescia, an investor at [Redpoint Ventures](https://www.redpoint.com/). I'm also on the board of the [Linux Foundation](https://www.linuxfoundation.org/). Previously, I was the Chief Operating Officer at GitHub and an investor at [X Factor Ventures](https://www.xfactor.ventures/), a seed fund that invests in female-founded companies (all investment partners are female founders themselves). Prior to joining GitHub, I was the co-founder and COO of [Bitnami](https://bitnami.com/) (acquired by VMware). 
 
 You can find me on [Twitter](https://twitter.com/ericabrescia) if you'd like to connect.
 
